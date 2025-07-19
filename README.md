@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Benson
 
-<!--
-**bensonwhalesdev/bensonwhalesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate **full-stack developer** from Nigeria, building modern, real-world web applications with clean UI, scalable architecture, and efficient backend systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ What I’m Working On
+
+**Scout Work** – A freelance job marketplace platform  
+  Tech: React, Node.js, Express, MongoDB, Zustand, ShadCN
+
+**SpendSense** – A personal budgeting dashboard with account syncing and monthly tracking  
+  Tech: React, Zustand, Node.js, MongoDB, TailwindCSS
+
+ Firebase-integrated authentication and dynamic dashboards for real-time user experiences
+
+---
+
+## 🧰 Tech Stack
+
+**Frontend**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+![ShadCN](https://img.shields.io/badge/-ShadCN-DD6B20?style=flat)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**Other Tools**  
+![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+![Render](https://img.shields.io/badge/-Render-3D348B?style=flat)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+📫 Let's Connect
+
+- **Twitter**: https://x.com/bensonwhales
+- **Email**: lawrencebenson18@hotmail.com
+
