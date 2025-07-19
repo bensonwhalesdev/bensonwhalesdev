@@ -4,18 +4,6 @@ A passionate **full-stack developer** from Nigeria, building modern, real-world 
 
 ---
 
- What I’m Working On
-
-**Scout Work** – A freelance job marketplace platform  
-  Tech: React, Node.js, Express, MongoDB, Zustand, ShadCN
-
-**SpendSense** – A personal budgeting dashboard with account syncing and monthly tracking  
-  Tech: React, Zustand, Node.js, MongoDB, TailwindCSS
-
- Firebase-integrated authentication and dynamic dashboards for real-time user experiences
-
----
-
 ## 🧰 Tech Stack
 
 **Frontend**  
