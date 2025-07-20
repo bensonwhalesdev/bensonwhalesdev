@@ -1,6 +1,6 @@
 # Hi, I'm Lawrence
 
-A passionate **full-stack developer** from Nigeria, building modern, real-world web applications with clean UI, scalable architecture, and efficient backend systems.
+A passionate **full-stack developer** from Nigeria, building modern, real-world web applications with clean UI, scalable architecture, and efficient backend systems
 
 ---
 
